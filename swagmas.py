@@ -1,12 +1,12 @@
 st = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", 
-"eigth", "ninth", "tenth", "eleventh", "twelth",]
+"eigth", "ninth", "tenth", "eleventh", "twelfth",]
 
 day = [
 "And a Partridge in a Pear Tree.",
 "Two Turtle Doves",
 "Three French Hens",
 "Four Calling Birds",
-"FIVE GOOOOAAAAAL-D RINGS",
+"FIVE GOLD RINGS",
 "Six Geese a-Laying",
 "Seven Swans a-Swimming",
 "Eight Maids a-Milking",
